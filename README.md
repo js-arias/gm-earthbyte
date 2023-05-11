@@ -50,7 +50,32 @@ The model is stored in the file `earthbyte-motion-xxx-5.tab`,
 in which `xxx` is the pixel resolution,
 and 5 is the time resolution (in million years).
 
+## Paleo-landscape
+
+The 'ocean plateau' layers are just the tectonic features
+pixelated at each time.
+Other layers were prepared from the paleogeography model
+of Cao et al. 2017,
+that can be found at [EarthByte page](https://www.earthbyte.org/gplates-2-3-software-and-data-sets/).
+Layers at present time are derived
+from [NaturalEarth](https://www.naturalearthdata.com/)
+and [NaturalEarth III](https://www.shadedrelief.com/natural3/index.html).
+
+The model is stored in the file `earthbyte-cao-xxx-5.tab`,
+in which `xxx` is the pixel resolution,
+and 5 is the time resolution (in million years).
+
+A color key,
+that can be used with `plates timepix map` command
+is stored in the file `earthbyte-cao-key.tab`.
+
 ## References
+
+Cao, W. et al.
+(2017)
+Improving global paleogeography since the late Paleozoic using paleobiology.
+Biogeosciences, 14, 5425-5439.
+DOI: [10.5194/bg-14-5425-2017](https://doi.org/10.5194/bg-14-5425-2017).
 
 Cao, X. et al.
 (2022).
