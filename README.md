@@ -34,7 +34,7 @@ extended with the volcanic provinces from Johansson et al. (2018).
 It is stored in the file `earthbyte-pixels-xxx.tab`
 in which `xxx` is used to indicate the resolution.
 
-## Plate motion model
+### Plate motion model
 
 The plate motion model
 (or rotation model)
@@ -50,7 +50,7 @@ The model is stored in the file `earthbyte-motion-xxx-5.tab`,
 in which `xxx` is the pixel resolution,
 and 5 is the time resolution (in million years).
 
-## Paleo-landscape
+### Paleo-landscape
 
 The 'ocean plateau' layers are just the tectonic features
 pixelated at each time.
