@@ -26,7 +26,7 @@ usually followed by the pixelation resolution,
 the size of time step,
 and the kind of file.
 
-### Pixeled features
+### Pixelated features
 
 It is based on the continental polygons
 from the original EarthByte model,
