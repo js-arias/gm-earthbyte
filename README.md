@@ -66,7 +66,8 @@ in which `xxx` is the pixel resolution,
 and 5 is the time resolution (in million years).
 
 A color key,
-that can be used with `plates timepix map` command
+which is compatible with color-blindness,
+and can be used with `plates timepix map` command
 is stored in the file `earthbyte-cao-key.tab`.
 
 ## References
