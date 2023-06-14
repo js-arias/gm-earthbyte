@@ -68,7 +68,7 @@ and 5 is the time resolution (in million years).
 A color key,
 which is compatible with color-blindness,
 and can be used with `plates timepix map` command
-is stored in the file `earthbyte-cao-landscape-key.tab`.
+is stored in the file `earthbyte-landscape-cao-key.tab`.
 
 ## References
 
