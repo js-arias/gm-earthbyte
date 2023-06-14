@@ -40,10 +40,10 @@ The plate motion model
 (or rotation model)
 was the model compiled by the EarthByte group,
 and the main references are:
-Torsvik et al. 2019;
-Young et al. 2019;
-Müller et al. 2019;
-Cao et al. 2022;
+Torsvik et al. (2019),
+Young et al. (2019),
+Müller et al. (2019),
+Cao et al. (2022).
 See that papers for additional references of the different rotations.
 
 The model is stored in the file `earthbyte-motion-xxx-5.tab`,
@@ -55,11 +55,20 @@ and 5 is the time resolution (in million years).
 The 'ocean plateau' layers are just the tectonic features
 pixelated at each time.
 Other layers were prepared from the paleogeography model
-of Cao et al. 2017,
+of Cao et al. (2017),
 that can be found at [EarthByte page](https://www.earthbyte.org/gplates-2-3-software-and-data-sets/).
 Layers at present time are derived
 from [NaturalEarth](https://www.naturalearthdata.com/)
 and [NaturalEarth III](https://www.shadedrelief.com/natural3/index.html).
+The landscape model uses the following convention:
+
+Key | Environment
+--- | -----------
+  1 | oceanic plateaus
+  2 | continental shelf
+  3 | lowlands
+  4 | highlands
+  5 | ice sheets
 
 The model is stored in the file `earthbyte-landscape-cao-xxx-5.tab`,
 in which `xxx` is the pixel resolution,
@@ -69,6 +78,25 @@ A color key,
 which is compatible with color-blindness,
 and can be used with `plates timepix map` command
 is stored in the file `earthbyte-landscape-cao-key.tab`.
+
+## Citation and data license
+
+This model is the direct process of the
+Cao et al. (2017),
+Torsvik et al. (2019),
+Young et al. (2019),
+Müller et al. (2019),
+and Cao et al. (2022) models.
+As such,
+the original publications should be cited when the model is used.
+Relevant papers are given in this file
+and provided as bibTeX.
+
+It is not required to cite this repository,
+but if you do not include the model in the supplementary material
+of your publication,
+it might be a good idea to link this repository
+and help others to replicate or re-use your analysis.
 
 ## References
 
