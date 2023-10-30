@@ -1,5 +1,5 @@
 # tectonic plates pixelation
-# data save on: 2023-02-20T16:27:47-03:00
+# data save on: 2023-10-30T16:34:13-03:00
 equator	plate	pixel	name	begin	end
 360	101	22	ALPHA RIDGE, ARCTIC OCEAN, 2500M NEW	124000000	0
 360	101	23	ALPHA RIDGE, ARCTIC OCEAN, 2500M NEW	124000000	0
@@ -6628,6 +6628,7 @@ equator	plate	pixel	name	begin	end
 360	319	6583	Strandja (Moesia)	600000000	0
 360	319	6851	Strandja (Moesia)	600000000	0
 360	320	7098	MAL (Mallorca)	600000000	0
+360	320	7099	BAI (Menorca)	600000000	0
 360	320	7371	MAL (Mallorca)	600000000	0
 360	320	7372	MAL (Mallorca)	600000000	0
 360	320	7373	BAI (Menorca)	600000000	0
@@ -23625,10 +23626,12 @@ equator	plate	pixel	name	begin	end
 360	16140	3634	Bering Shelf	50000000	0
 360	16140	3635	Bering Shelf	50000000	0
 360	16141	2499	Outer Bering Shelf	50000000	0
+360	16141	2674	Outer Bering Shelf	50000000	0
 360	16141	2675	Outer Bering Shelf	50000000	0
 360	16141	2854	Outer Bering Shelf	50000000	0
 360	16141	2855	Outer Bering Shelf	50000000	0
 360	16141	2856	Outer Bering Shelf	50000000	0
+360	16141	3039	Outer Bering Shelf	50000000	0
 360	16141	3040	Outer Bering Shelf	50000000	0
 360	16141	3041	Outer Bering Shelf	50000000	0
 360	16141	3042	Outer Bering Shelf	50000000	0
@@ -23637,6 +23640,7 @@ equator	plate	pixel	name	begin	end
 360	16141	3232	Outer Bering Shelf	50000000	0
 360	16141	3233	Outer Bering Shelf	50000000	0
 360	16141	3234	Outer Bering Shelf	50000000	0
+360	16141	3426	Outer Bering Shelf	50000000	0
 360	16141	3427	Outer Bering Shelf	50000000	0
 360	16141	3428	Outer Bering Shelf	50000000	0
 360	16141	3429	Outer Bering Shelf	50000000	0
@@ -23652,6 +23656,7 @@ equator	plate	pixel	name	begin	end
 360	16141	3633	Outer Bering Shelf	50000000	0
 360	16141	3634	Outer Bering Shelf	50000000	0
 360	16141	3635	Outer Bering Shelf	50000000	0
+360	16141	3833	Outer Bering Shelf	50000000	0
 360	16141	3834	Outer Bering Shelf	50000000	0
 360	16141	3835	Outer Bering Shelf	50000000	0
 360	16141	3836	Outer Bering Shelf	50000000	0
